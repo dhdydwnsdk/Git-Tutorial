@@ -10,3 +10,4 @@ a+b+c
 
 det div(a,b)
 		return a/b //ÁÖ¼®
+
