@@ -7,3 +7,6 @@ det mul(a,b)
 
 a+b+c 
 	return abc
+
+det div(a,b)
+		return a/b //ÁÖ¼®
