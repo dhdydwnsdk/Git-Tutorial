@@ -4,3 +4,6 @@ det sub(a,b)
 		return a-b
 det mul(a,b)
 		return a*b
+
+a+b+c 
+	return abc
